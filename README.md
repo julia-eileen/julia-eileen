@@ -4,6 +4,7 @@
 <p align="center">I'm passionate about software development, always looking at how to apply new trends and technologies in the projects I work, having a predilection in the area of building immersive and dynamic user inferfaces, that's why I specialized in frontend.</p>
 <p align="center">As a leader I try to encourage the team to find the best version of itself, not by determining how things have to work, but by taking advantage of the technical and creative capacity of each one to reach the best solution.</p>
 <hr />
+
 - 💬 Ask me about **React, Javascript, Typescript or NodeJS**
 
 - 📫 How to reach me **julia_eileen@outlook.com**
