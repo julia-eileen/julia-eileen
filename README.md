@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Julia Eileen Schäfer</h1>
-<div align="center"><img height="300" width="300" src="https://user-images.githubusercontent.com/86121594/170636290-36a9653b-7c8d-4be1-a0be-9d1f1af8549a.png"></div>
+<div align="center"><img height="300" width="300" src="https://user-images.githubusercontent.com/86121594/204641285-277cceda-3c06-4e31-acd6-95a0e0de9c14.png"></div>
 <hr />
 <p align="center">I'm passionate about software development, always looking at how to apply new trends and technologies in the projects I work, having a predilection in the area of building immersive and dynamic user inferfaces, that's why I specialized in frontend.</p>
 <p align="center">As a leader I try to encourage the team to find the best version of itself, not by imposing onto them how things have to work, but by taking advantage of theirs technical and creative capacity to reach the best solution.</p>
